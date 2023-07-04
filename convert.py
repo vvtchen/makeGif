@@ -1,5 +1,5 @@
 import os
-os.environ["IMAGEIO_FFMPEG_EXE"] = "./ffmpeg"
+os.environ["IMAGEIO_FFMPEG_EXE"] = "/Users/arieschen/Downloads/ffmpeg"
 
 from moviepy.editor import *
 
